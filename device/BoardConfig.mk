@@ -29,7 +29,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/lge/d620/include
 # Vendor Init
 TARGET_UNIFIED_DEVICE := true
 #TARGET_INIT_VENDOR_LIB := libinit_msm
-TARGET_LIBINIT_DEFINES_FILE := device/lge/d620/init/init_d620.c
+TARGET_LIBINIT_DEFINES_FILE := device/lge/d620/init/init_g2m.c
 
 # Platform
 TARGET_ARCH := arm
